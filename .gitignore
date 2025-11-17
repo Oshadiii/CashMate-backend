@@ -4,11 +4,19 @@
 # Log file
 *.log
 
+# JetBrains IDE
+.idea/
+
 # BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+# Applications
+*.app
+*.exe
+*.war
 
 # Package Files #
 *.jar
